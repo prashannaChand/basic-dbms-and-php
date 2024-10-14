@@ -1,0 +1,15 @@
+index fully functional
+/signup- db ma aaira cha/ functional
+connect- newsdb
+connect1- logindb
+shownews- fully functional
+contact- functioning
+//addnews- add matra vaira cha , list dekhaira chain a, aru option chaina // Curd use garne yeama 
+login - vaira cha 
+logout- vaira cha 
+
+////script js use vayeko chiana
+
+//functioning sab functioning cha 
+
+////
